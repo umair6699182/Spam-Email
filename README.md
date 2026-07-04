@@ -1,8 +1,8 @@
-# 📧 Spam Email Detector
+📧 Spam Email Detector
 
 A machine learning web application that detects whether an email message is **Spam** or **Not Spam** using Natural Language Processing and a trained classification model.
 
-## 🚀 Features
+🚀 Features
 
 - Detects spam emails from user input
 - Shows prediction result: Spam or Not Spam
@@ -10,7 +10,7 @@ A machine learning web application that detects whether an email message is **Sp
 - Simple Streamlit web interface
 - Uses saved ML model and TF-IDF vectorizer
 
-## 🛠️ Tech Stack
+🛠️ Tech Stack
 
 - Python
 - Scikit-learn
@@ -19,9 +19,8 @@ A machine learning web application that detects whether an email message is **Sp
 - Streamlit
 - Joblib
 
-## 📁 Project Structure
+📁 Project Structure
 
-```text
 spam-email-detector/
 │
 ├── app/
